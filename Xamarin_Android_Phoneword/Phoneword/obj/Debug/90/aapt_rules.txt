@@ -1,0 +1,3 @@
+# Referenced at C:\Users\Administrator\Desktop\Xamarin_Android___Phoneword\Phoneword\obj\Debug\90\lp\16\jl\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
